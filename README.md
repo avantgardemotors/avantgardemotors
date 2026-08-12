@@ -16,12 +16,12 @@
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=avantgardemotors&show_icons=true&include_all_commits=true&count_private=true"
 />
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=avantgardemotors&layout=compact"
 />
 
 </div>
@@ -54,7 +54,7 @@
 
 ## 🐍 Minhas contribuições
 
-![Snake animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/avantgardemotors/avantgardemotors/output/github-contribution-grid-snake.svg)
 
 ---
 
