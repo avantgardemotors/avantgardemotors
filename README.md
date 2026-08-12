@@ -16,12 +16,12 @@
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=avantgardemotors&show_icons=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=kaicbrito&show_icons=true&include_all_commits=true&count_private=true"
 />
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=avantgardemotors&layout=compact"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaicbrito&layout=compact"
 />
 
 </div>
