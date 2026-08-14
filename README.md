@@ -10,24 +10,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=kaicbrito&show_icons=true&include_all_commits=true&count_private=true"
-/>
-
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaicbrito&layout=compact"
-/>
-
-</div>
-
----
-
 ## 🔥 Sequência de commits
 
 <div align="center">
